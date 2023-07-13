@@ -7,7 +7,7 @@ public class Test {
         Apartment test = new Apartment();
         test.porte.color = "bleu";
         Person p = new Person();
-        p.nom = "John";
+        p.nom = "Thomas";
         p.maison = test;
         p.display();
 
